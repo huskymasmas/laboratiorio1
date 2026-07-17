@@ -1,0 +1,23 @@
+1. ¿Cuál es la diferencia entre <head> y <header>?
+head la metdata y el titulo de la pagina, header el titulo de la pagina
+
+2. ¿Cuál es la diferencia entre <title> y <h1>?
+title es el nombre del encabasado de la pagina y h1 es para N los titulos dentro de la pagina
+
+3. ¿Por qué es importante el atributo alt?
+texto alternativo en caso de que no carge una imagen
+
+4. ¿Qué función cumple la etiqueta <nav>?
+para crear menus
+
+5. ¿Por qué se recomienda utilizar etiquetas semánticas?
+se utilizan para dar significado a la estructura del contenido, facilitando la accesibilidad, el SEO y el mantenimiento del código.
+
+6. ¿Qué sucede si la ruta de la imagen es incorrecta?
+no aparecera la imagen corespondiente sale un texto de alt en caso existir
+
+7. ¿Por qué el archivo principal se llama normalmente index.html?
+buena practica para referenciar el incio de la pagina
+
+8. ¿HTML es un lenguaje de programación? Justifique su respuesta.
+no es un lenguaje de marcado
