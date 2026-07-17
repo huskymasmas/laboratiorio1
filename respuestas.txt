@@ -11,7 +11,7 @@ texto alternativo en caso de que no carge una imagen
 para crear menus
 
 5. ¿Por qué se recomienda utilizar etiquetas semánticas?
-se utilizan para dar significado a la estructura del contenido, facilitando la accesibilidad, el SEO y el mantenimiento del código.
+se utilizan para dar significado a la estructura del contenido, facilitando la accesibilidad del mismo.
 
 6. ¿Qué sucede si la ruta de la imagen es incorrecta?
 no aparecera la imagen corespondiente sale un texto de alt en caso existir
@@ -20,4 +20,4 @@ no aparecera la imagen corespondiente sale un texto de alt en caso existir
 buena practica para referenciar el incio de la pagina
 
 8. ¿HTML es un lenguaje de programación? Justifique su respuesta.
-no es un lenguaje de marcado
+no es un lenguaje de marcado osea no es un leguaje de programacion en si por que no tiene variables entre otras cosas.
